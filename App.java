@@ -12,7 +12,7 @@ public class App {
 		asteriskLogger.error("Invalid");
 		
 		spacedLogger.log("Hello");
-		spacedLogger.log("Invalid");
+		spacedLogger.error("Invalid");
 
 	}
 
